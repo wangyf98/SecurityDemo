@@ -1,0 +1,28 @@
+wyf/infrastructure/po/UserRole.java
+ wyf.infrastructure.po.UserRole
+wyf/SecurityApplication.java
+ wyf.SecurityApplication
+wyf/application/service/UserService.java
+ wyf.application.service.UserService
+wyf/domain/Role.java
+ wyf.domain.Role
+wyf/infrastructure/mapper/UserRoleMapper.java
+ wyf.infrastructure.mapper.UserRoleMapper
+wyf/infrastructure/po/UserPo.java
+ wyf.infrastructure.po.UserPo
+wyf/infrastructure/mapper/UserMapper.java
+ wyf.infrastructure.mapper.UserMapper
+wyf/config/SecurityConfig.java
+ wyf.config.SecurityConfig
+wyf/application/service/impl/UserServiceImpl.java
+ wyf.application.service.impl.UserServiceImpl
+wyf/domain/SecurityUserDetails.java
+ wyf.domain.SecurityUserDetails
+wyf/infrastructure/repositoryImpl/UserRepositoryImpl.java
+ wyf.infrastructure.repositoryImpl.UserRepositoryImpl
+wyf/domain/User.java
+ wyf.domain.User
+wyf/repository/UserRepository.java
+ wyf.repository.UserRepository
+wyf/interfaces/UserController.java
+ wyf.interfaces.UserController
